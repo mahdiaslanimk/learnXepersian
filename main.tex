@@ -1,0 +1,52 @@
+\documentclass[12pt]{article}
+\usepackage{xepersian}
+\settextfont[Path=./fonts/,
+BoldFont={XB Yas Bd}, 
+ItalicFont={XB Yas It},
+BoldItalicFont={XB Yas BdIt},
+Extension = .ttf]{XB Yas}
+%تعریف فونت جدید
+\defpersianfont\nast{IranNastaliq}
+
+
+\title{پایان‌نامه}
+\author{مهدی اصلانی}
+\date{۲۵ تیر ۱۴۰۰}
+
+\begin{document}
+\maketitle
+
+\section{اندازه ها مختلف، شکستن خط، رفتن به پاراگراف یا خط بعد }
+
+
+متن با اندازه نرمال
+{\LARGE متن با اندازه بزرگ}
+{\tiny  متن با اندازه کوچولو}
+ {\footnotesize متن با اندازه پاورقی}
+سایر اندازه ها را می‌توانید در اینترنت پیدا کنید (
+\lr{footbote, large, LARGE, huge, HUGE, ...}
+)
+  برای وارد کردن تاریخ روز می توان از این دستور استفاده کرد
+( \today )
+و با خالی گذاشتن یک خط می‌توان به پاراگراف بعدی رفت. برای رفتن به خط بعدی می‌توانیم از دو بَک اِسلش \\ استفاده کنیم.
+
+
+\section{متن های ضخیم، کج (خوابیده)، زیرخط‌دار، درونِ کادر و تاکید‌شده و سلام}
+می‌توانید به این صورت  یک نوشته را 
+\textbf{بولد (ضخیم)}
+یا
+\textit{ایتالیک (کج)}
+یا
+\underline{زیرخط‌دار}
+یا
+\fbox{درون کادر}
+یا
+\emph{تاکید شده}
+بنویسید.
+
+
+\section{استفاده از فونت تعریف شده در قسمت preamble}
+می‌توان از فونت تعریف شده در قسمت preamble استفاده کرد
+{\LARGE \nast ساقیا مرد نکونام نمرید هرگز}
+
+\end{document}
