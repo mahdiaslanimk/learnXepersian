@@ -1,12 +1,12 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.4.13)  16 JUL 2021 23:18
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.4.13)  16 JUL 2021 22:54
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
 **main.tex
 (./main.tex
 LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-02-18> (/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
+L3 programming layer <2021-02-18>
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
 (/usr/local/texlive/2021/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
@@ -22,13 +22,19 @@ File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
-) (/usr/local/texlive/2021/texmf-dist/tex/xelatex/xepersian/xepersian.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/xelatex/xepersian/xepersian.sty
 Package: xepersian 2020/05/17 v23.1 Persian typesetting in XeLaTeX
- (/usr/local/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2021-02-18 L3 programming layer (loader) 
- (/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 File: l3backend-xetex.def 2021-03-18 L3 backend support: XeTeX
- (|extractbb --version)
+
+(|extractbb --version)
 \c__kernel_sys_dvipdfmx_version_int=\count183
 \l__color_backend_stack_int=\count184
 \g__color_backend_stack_int=\count185
@@ -37,10 +43,16 @@ File: l3backend-xetex.def 2021-03-18 L3 backend support: XeTeX
 \g__pdf_backend_object_int=\count187
 \g__pdf_backend_annotation_int=\count188
 \g__pdf_backend_link_int=\count189
-)) (/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex)))
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-
+01.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.
+tex)))
 Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
- (/usr/local/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
-Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
+X
 \l__fontspec_script_int=\count190
 \l__fontspec_language_int=\count191
 \l__fontspec_strnum_int=\count192
@@ -55,9 +67,13 @@ Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
 \l__fontspec_tmpa_dim=\dimen139
 \l__fontspec_tmpb_dim=\dimen140
 \l__fontspec_tmpc_dim=\dimen141
- (/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (/usr/local/texlive/2021/texmf-dist/tex/xelatex/xepersian/xepersian-persiancal.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/local/texlive/2021/texmf-dist/tex/xelatex/xepersian/xepersian-persiancal.
+sty
 Package: xepersian-persiancal 2012/07/25 v0.2 provides Persian calendar
 \XePersian@i=\count267
 \XePersian@y=\count268
@@ -96,10 +112,14 @@ Package: xepersian-persiancal 2012/07/25 v0.2 provides Persian calendar
 \XePersian@dn=\count301
 \XePersian@sn=\count302
 \XePersian@mminusone=\count303
-) (/usr/local/texlive/2021/texmf-dist/tex/xelatex/xepersian/xepersian-mathsdigitspec.sty
-Package: xepersian-mathsdigitspec 2018/12/16 v1.1.7 Unicode Persian maths digits in XeLaTeX
+)
+(/usr/local/texlive/2021/texmf-dist/tex/xelatex/xepersian/xepersian-mathsdigits
+pec.sty
+Package: xepersian-mathsdigitspec 2018/12/16 v1.1.7 Unicode Persian maths digit
+s in XeLaTeX
 ) (/usr/local/texlive/2021/texmf-dist/tex/xelatex/bidi/bidi.sty
 Package: bidi 2020/05/17 v36.3 Bidirectional typesetting in plain TeX and LaTeX
+
 
 ****************************************************
 * 
@@ -128,7 +148,8 @@ Package: bidi 2020/05/17 v36.3 Bidirectional typesetting in plain TeX and LaTeX
 ****************************************************
 (/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
-) (/usr/local/texlive/2021/texmf-dist/tex/xelatex/bidi/biditools.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/xelatex/bidi/biditools.sty
 Package: biditools 2020/05/13 v2 Programming tools for bidi package
 \@bidi@envbody=\toks15
 \@bidi@emptytoks=\toks16
@@ -149,57 +170,81 @@ Package biditools Warning: Patching `\enddocument' failed on input line 916.
 \bidi@looprepeat@depth=\count308
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/zref/zref-abspage.sty
 Package: zref-abspage 2020-07-03 v2.32 Module abspage for zref (HO)
- (/usr/local/texlive/2021/texmf-dist/tex/latex/zref/zref-base.sty
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/zref/zref-base.sty
 Package: zref-base 2020-07-03 v2.32 Module base for zref (HO)
- (/usr/local/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode not found.
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/auxhook/auxhook.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
 Package zref Info: New property list: main on input line 764.
 Package zref Info: New property: default on input line 765.
 Package zref Info: New property: page on input line 766.
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/atbegshi-ltx.sty
-Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi package
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
 with kernel methods
 )
 \c@abspage=\count309
 Package zref Info: New property: abspage on input line 66.
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
- (/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks23
 \XKV@tempa@toks=\toks24
- (/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/keyval.tex))
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/keyval.tex))
 \XKV@depth=\count310
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 \@bidi@copyins@=\insert252
- (/usr/local/texlive/2021/texmf-dist/tex/xelatex/bidi/latex-xetex-bidi.def
-File: latex-xetex-bidi.def 2019/03/03 v1.3.7 bidi adaptations for `latex.ltx' for XeTeX engine
+
+(/usr/local/texlive/2021/texmf-dist/tex/xelatex/bidi/latex-xetex-bidi.def
+File: latex-xetex-bidi.def 2019/03/03 v1.3.7 bidi adaptations for `latex.ltx' f
+or XeTeX engine
 \bidi@n@everypar=\toks25
 \bidi@column@check@number=\count311
- (/usr/local/texlive/2021/texmf-dist/tex/xelatex/bidi/footnote-xetex-bidi.def
-File: footnote-xetex-bidi.def 2017/08/09 v1.1 bidi footnote macros for XeTeX engine
+
+(/usr/local/texlive/2021/texmf-dist/tex/xelatex/bidi/footnote-xetex-bidi.def
+File: footnote-xetex-bidi.def 2017/08/09 v1.1 bidi footnote macros for XeTeX en
+gine
 \c@footdir@label=\count312
 \footdir@toks=\toks26
-) (/usr/local/texlive/2021/texmf-dist/tex/xelatex/bidi/article-xetex-bidi.def
-File: article-xetex-bidi.def 2017/06/09 v0.6 bidi adaptations for standard article class for XeTeX engine
-)) (/usr/local/texlive/2021/texmf-dist/tex/xelatex/bidi/loadingorder-xetex-bidi.def
-File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the last package loaded
+)
+(/usr/local/texlive/2021/texmf-dist/tex/xelatex/bidi/article-xetex-bidi.def
+File: article-xetex-bidi.def 2017/06/09 v0.6 bidi adaptations for standard arti
+cle class for XeTeX engine
+))
+(/usr/local/texlive/2021/texmf-dist/tex/xelatex/bidi/loadingorder-xetex-bidi.de
+f
+File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the
+ last package loaded
 )
 \bidi@digits=\count313
 \bidi@digits@charclass=\XeTeXcharclass1
@@ -231,51 +276,75 @@ File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the 
 \xepersian@tcl=\count314
 \xepersian@ilg=\dimen142
 \xepersian@strutilg=\dimen143
-(/usr/local/texlive/2021/texmf-dist/tex/xelatex/xepersian/loadingorder-xepersian.def
-File: loadingorder-xepersian.def 2018/09/29 v0.5 making sure that xepersian is the last package loaded
-) (/usr/local/texlive/2021/texmf-dist/tex/xelatex/xepersian/footnote-xepersian.def
-File: footnote-xepersian.def 2017/08/09 v0.6 footnote macros for xepersian package
-) (/usr/local/texlive/2021/texmf-dist/tex/xelatex/xepersian/article-xepersian.def
-File: article-xepersian.def 2010/07/25 v0.2 adaptations for standard article class
+
+(/usr/local/texlive/2021/texmf-dist/tex/xelatex/xepersian/loadingorder-xepersia
+n.def
+File: loadingorder-xepersian.def 2018/09/29 v0.5 making sure that xepersian is 
+the last package loaded
+)
+(/usr/local/texlive/2021/texmf-dist/tex/xelatex/xepersian/footnote-xepersian.de
+f
+File: footnote-xepersian.def 2017/08/09 v0.6 footnote macros for xepersian pack
+age
+)
+(/usr/local/texlive/2021/texmf-dist/tex/xelatex/xepersian/article-xepersian.def
+File: article-xepersian.def 2010/07/25 v0.2 adaptations for standard article cl
+ass
 )
 
 Package fontspec Info: Font family 'lmroman10-regular(0)' created for font
 (fontspec)             'lmroman10-regular' with options
-(fontspec)             [Ligatures=TeX,Path,BoldFont={lmroman10-bold},BoldItalicFont={lmroman10-bolditalic},ItalicFont={lmroman10-italic},SmallCapsFont={lmromancaps10-regular},SlantedFont={lmromanslant10-regular},BoldSlantedFont={lmromanslant10-bold}].
+(fontspec)             [Ligatures=TeX,Path,BoldFont={lmroman10-bold},BoldItalic
+Font={lmroman10-bolditalic},ItalicFont={lmroman10-italic},SmallCapsFont={lmroma
+ncaps10-regular},SlantedFont={lmromanslant10-regular},BoldSlantedFont={lmromans
+lant10-bold}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"[lmroman10-regular]/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             <->"[lmroman10-regular]/OT:script=latn;language=dflt;map
+ping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->"[lmroman10-bold]/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             <->"[lmroman10-bold]/OT:script=latn;language=dflt;mappin
+g=tex-text;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->"[lmroman10-italic]/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             <->"[lmroman10-italic]/OT:script=latn;language=dflt;mapp
+ing=tex-text;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
 (fontspec)             - 'slanted' (m/sl) with NFSS spec.:
-(fontspec)             <->"[lmromanslant10-regular]/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             <->"[lmromanslant10-regular]/OT:script=latn;language=dfl
+t;mapping=tex-text;"
 (fontspec)             - 'slanted small caps'  (m/scsl) with NFSS spec.:
-(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->"[lmroman10-bolditalic]/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             <->"[lmroman10-bolditalic]/OT:script=latn;language=dflt;
+mapping=tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
 (fontspec)             - 'bold slanted' (b/sl) with NFSS spec.:
-(fontspec)             <->"[lmromanslant10-bold]/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             <->"[lmromanslant10-bold]/OT:script=latn;language=dflt;m
+apping=tex-text;"
 (fontspec)             - 'bold slanted small caps'  (b/scsl) with NFSS spec.:
-(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
 
 )
 
 Package fontspec Info: Font family 'XBYas(0)' created for font 'XB Yas' with
 (fontspec)             options
-(fontspec)             [Script=Persian,Ligatures=PersianTeX,Path=./fonts/,BoldFont={XB
+(fontspec)             [Script=Persian,Ligatures=PersianTeX,Path=./fonts/,BoldF
+ont={XB
 (fontspec)             Yas Bd},ItalicFont={XB Yas It},BoldItalicFont={XB Yas
 (fontspec)             BdIt},Extension = .ttf].
 (fontspec)              
@@ -283,17 +352,21 @@ Package fontspec Info: Font family 'XBYas(0)' created for font 'XB Yas' with
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.: <->"[./fonts/XB
-(fontspec)             Yas.ttf]/OT:script=arab;language=dflt;mapping=persian-tex-text;"
+(fontspec)             Yas.ttf]/OT:script=arab;language=dflt;mapping=persian-te
+x-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             - 'bold' (b/n) with NFSS spec.: <->"[./fonts/XB Yas
-(fontspec)             Bd.ttf]/OT:script=arab;language=dflt;mapping=persian-tex-text;"
+(fontspec)             Bd.ttf]/OT:script=arab;language=dflt;mapping=persian-tex
+-text;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 (fontspec)             - 'italic' (m/it) with NFSS spec.: <->"[./fonts/XB Yas
-(fontspec)             It.ttf]/OT:script=arab;language=dflt;mapping=persian-tex-text;"
+(fontspec)             It.ttf]/OT:script=arab;language=dflt;mapping=persian-tex
+-text;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"[./fonts/XB
 (fontspec)             Yas
-(fontspec)             BdIt.ttf]/OT:script=arab;language=dflt;mapping=persian-tex-text;"
+(fontspec)             BdIt.ttf]/OT:script=arab;language=dflt;mapping=persian-t
+ex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 
@@ -317,86 +390,60 @@ Package fontspec Info: Font family 'IranNastaliq(0)' created for font
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"IranNastaliq/OT:script=arab;language=dflt;mapping=persian-tex-text;"
+(fontspec)             <->"IranNastaliq/OT:script=arab;language=dflt;mapping=pe
+rsian-tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
-
-Package fontspec Info: Could not resolve font "B Titr Bold/BI" (it probably
-(fontspec)             doesn't exist).
-
-
-Package fontspec Info: Could not resolve font "B Titr Bold/B" (it probably
-(fontspec)             doesn't exist).
-
-
-Package fontspec Info: Could not resolve font "B Titr Bold/I" (it probably
-(fontspec)             doesn't exist).
-
-
-Package fontspec Info: Font family 'BTitrBold(0)' created for font 'B Titr
-(fontspec)             Bold' with options
-(fontspec)             [Script=Persian,Ligatures=PersianTeX].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"B Titr
-(fontspec)             Bold/OT:script=arab;language=dflt;mapping=persian-tex-text;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-
- (/Users/raidriar/Documents/For Proj/Thesis/learnXerpersian/.texpadtmp/main.aux)
+ (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 19.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
+6.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 20.
+(Font)              <14.4> on input line 17.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 20.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 44.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 44.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 44.
- [1
+(Font)              <7> on input line 17.
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 60--62
-[][]
+Overfull \hbox (15.3122pt too wide) in paragraph at lines 34--34
+[][]\TU/XBYas(0)/b/n/17.28 متن های ضخیم، کج (خوابیده)، زیرخط‌دار، درونِ کادر و 
+تاکید‌شده[]
  []
 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 40.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 40.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 40.
+[1
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--70
-[][]
- []
-
-[2] (/Users/raidriar/Documents/For Proj/Thesis/learnXerpersian/.texpadtmp/main.aux) ) 
+] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 5345 strings out of 476919
- 143815 string characters out of 5821840
- 568472 words of memory out of 5000000
- 25239 multiletter control sequences out of 15000+600000
- 407375 words of font info for 76 fonts, out of 8000000 for 9000
+ 5326 strings out of 476919
+ 142898 string characters out of 5821840
+ 567472 words of memory out of 5000000
+ 25230 multiletter control sequences out of 15000+600000
+ 407335 words of font info for 71 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  97i,8n,109p,1042b,249s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on /Users/raidriar/Documents/For Proj/Thesis/learnXerpersian/.texpadtmp/main.pdf (2 pages).
+Output written on main.pdf (1 page).
