@@ -1,6 +1,9 @@
 %این فایل از روی آموزش‌های لتکس در کانال آپارات دکتر مس‌فروش (عضو هیات علمی دانشگاه صنعتی شاهرود) ساخته شده است
 
-\documentclass[12pt]{article}
+%برای ساخت فصل‌ها باید از کلاس کتاب استفاده کنیم
+\documentclass[12pt]{book}
+%برای قابل کلیک شدن ارجاعات و برچسب‌ها از پیکیج زیر استفاده می‌کنیم
+\usepackage{hyperref}
 \usepackage{xepersian}
 \settextfont[Path=./fonts/,
 BoldFont={XB Yas Bd}, 
@@ -9,7 +12,8 @@ BoldItalicFont={XB Yas BdIt},
 Extension = .ttf]{XB Yas}
 %تعریف فونت جدید
 \defpersianfont\nast{IranNastaliq}
-\defpersianfont\titr{B Titr Bold}
+%اگر فونت زیر را نصب کردید می‌توانید خط زیر را از حالت کامنت خارج کنید
+%\defpersianfont\titr{B Titr Bold}
 
 
 \title{پایان‌نامه}
@@ -19,7 +23,7 @@ Extension = .ttf]{XB Yas}
 \begin{document}
 \maketitle
 
-
+\chapter{دستورات پایه در \LaTeX}
 \section{اندازه ها مختلف، شکستن خط، رفتن به پاراگراف یا خط بعد }
 
 
@@ -52,7 +56,8 @@ Extension = .ttf]{XB Yas}
 \section{استفاده از فونت تعریف شده در قسمت preamble}
 می‌توان از فونت تعریف شده در قسمت preamble استفاده کرد:\\
 {\nast ساقیا مرد نکونام نمیرد هرگز}\\
-{\titr این یک تیتر با فونت تیتر ضخیم است}
+%اگر فونت B Titr Bold را نصب کرده‌اید می‌توانید آنرا از حالت کامنت خارج کنید (در قسمت preamble هم همینکار را انجام دهید)
+%{\titr این یک تیتر با فونت تیتر ضخیم است}
 
 \newpage
 
@@ -76,9 +81,16 @@ Extension = .ttf]{XB Yas}
 			این یک متن راست‌چین است که با روش اول ساخته شده‌ است
 \end{flushright}
 
+%ارجاع دادن به فصل فرمول نویسی بدون اینکه بدانیم شماره فصل چند است
+در فصل
+\ref{writingFormula}
+به نحوه فرمول نویسی در
+\LaTeX
+خواهیم پرداخت.
 
 
 
+\chapter{فرمول نویسی در \LaTeX}\label{writingFormula}
 
 
 
